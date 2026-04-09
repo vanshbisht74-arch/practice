@@ -11,7 +11,7 @@ This repo contains my daily problem-solving journey, where I consistently work o
 
 * Daily DSA practice problems
 * Solutions written in **Python 🐍**
-* Clean and structured code for easy understanding
+* Clean and structured code for easy understanding 
 * Progressive learning from basic → advanced topics
 
 ---
