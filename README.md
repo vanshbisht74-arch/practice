@@ -110,7 +110,7 @@ However, suggestions and improvements are always welcome!
 
 If you find this repository helpful:
 
-👉 Give it a **star ⭐**
+👉 Give it a **star ⭐** 
 👉 Follow for more updates
 
 ---
