@@ -5,7 +5,7 @@ def bubble(arr):
         for j in range(0,i+1): 
             if arr[j]>arr[j+1]:
                 arr[j],arr[j+1]=arr[j+1],arr[j]
-                swap=True 
+                swap=True     
 
         if swap==False:
             return arr
