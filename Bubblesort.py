@@ -7,7 +7,7 @@ def bubble(arr):
                 arr[j],arr[j+1]=arr[j+1],arr[j]
                 swap=True     
 
-        if swap==False:
+        if swap==False: 
             return arr
          
  
