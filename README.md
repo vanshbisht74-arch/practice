@@ -8,8 +8,7 @@ This repo contains my daily problem-solving journey, where I consistently work o
        
 📌 This repository is a collection of:         
                  
-* Daily DSA practice problems          
-* Solutions written in **Python 🐍**         
+* Daily DSA practice problems           
 * Clean and structured code for easy understanding       
 * Progressive learning from basic → advanced topics
    
